@@ -1,4 +1,4 @@
-package com.hillel.artemjev.orderpizza.orderhandler.exception;
+package com.hillel.artemjev.orderpizza.exception;
 
 public class InvalidOderDataException extends RuntimeException {
     public InvalidOderDataException(String message) {
